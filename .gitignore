@@ -1,0 +1,7 @@
+# Private source and derived data
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+/data/
+/FIELD_GUIDE.local.md
