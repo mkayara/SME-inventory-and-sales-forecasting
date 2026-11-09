@@ -33,4 +33,6 @@ The workbook is excluded for data-protection reasons. Without authorized access 
 
 ## Contributors
 
-The notebook credits Muhammad Shabir, Syed Athif, Ali Danial, and others for code (and other) contributions. See published paper for more info.
+The notebook credits Muhammad Shabir, Syed Athif, Ali Danial, and others for code (and other) contributions. See the full published paper for more info.
+[Identifying the Best-Selling Product using Machine Learning Algorithms](https://www.researchgate.net/publication/389085788_Identifying_the_Best-Selling_Product_using_Machine_Learning_Algorithms#fullTextFileContent)
+
