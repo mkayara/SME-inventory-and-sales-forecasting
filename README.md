@@ -33,4 +33,4 @@ The workbook is excluded for data-protection reasons. Without authorized access 
 
 ## Contributors
 
-The notebook credits Muhammad Shabir, Syed Athif, and Ali Danial for code contributions.
+The notebook credits Muhammad Shabir, Syed Athif, Ali Danial, and others for code (and other) contributions. See published paper for more info.
